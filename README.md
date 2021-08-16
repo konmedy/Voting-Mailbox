@@ -1,6 +1,1 @@
-# Voting Mailbox
-
-## TODO:
-- MySQL connections
-- Configuration commands
-- Actually making it so the bot can be used without source code modification
+this code is dogshit, can't believe how much of an improvement 5 months did to me.
